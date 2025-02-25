@@ -90,13 +90,13 @@ proyecto-gestion/
 
 ### Loggin
 
-![img.png](img.png)
+![login.png](login.png)
 
 ---
 
 ### Control de clientes
 
-![img_1.png](img_1.png)
+![clients.png](clients.png)
 
 
 
